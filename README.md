@@ -60,12 +60,12 @@
  - #### iii.Wifi Setup
  - Turn on the Wifi
  - Add SSID and passward in source code
- - 
- S
- 
- - 
   
-  - 
+ 
+
+   
+  
+   
   
 - Debug & compile the code
    - Dump the code in Node MCU
