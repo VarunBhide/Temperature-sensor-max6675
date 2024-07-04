@@ -3,7 +3,7 @@
 
 ## Content
 - 1.[Overview](#overview)
-- 2.[Components Required](#components)
+- 2.[Components Required](#components-reaquired)
 - 3.[Project Flow](#project-flow)
 - 4.[Circuit Diagram](#circuit-diagram)
 - 5
@@ -16,7 +16,7 @@
 ## Overview
 - This project is based on ESP8266 Node MCU
 
-## Components 
+## Components Reaquired 
 - 1.ESP8266 Node MCU
 - 2.Temperature sensor
 - 3.USB cable
