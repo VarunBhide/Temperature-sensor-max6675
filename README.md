@@ -33,16 +33,20 @@
  - VCC of Temperature sensor to 3.3V of NodeMCU
  - Gnd of Temperature sensor to GND of NodeMCU
  - Connect Data pins of Temperature sensor to digital pins on NodeMCU
+ - connect the NodeMCU to computrer thru=ough usb cable
    
 
 
  
   ### 2.Software Setup
+  ##### i. install proper ide
  - Install the VS code 
  - Install the platfomIO extention
  - Creat the new project
  - select the ESP8266 NodeMCU board
  - Write the code in SRC main.cpp file
+ - add wifi credentials in code
+ - add thingspeak api key and channel no for thingspeak connections
  - ##### install libraries
    a. mathworks/ThingSpeak @ ^2.0.0
   
@@ -59,10 +63,18 @@
    g. bbx10/DNSServer@^1.1.0
   
    h. monitor_speed=115200
-  
-  
-  
 
+   
+     
+     
+  ### Thingspeak field setup
+  - creat thingspeak account
+  - 
+  
+- Debug & compile the code
+   - Dump the code in Node MCU
+   - open the seril monitor to see the result
+   - wait untill the the nodeMCU connrcts to the wifi
 
 
  ## Circuit Diagram
