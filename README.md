@@ -51,13 +51,13 @@
 
    
      
- - #### ii.Thingspeak  Setup
+   #### ii.Thingspeak  Setup
  - open Thingspeak
  - Creat new channel
  - select  no of fields required
  - Add api key and and chnnel no in source code
 
- - #### iii.Wifi Setup
+  #### iii.Wifi Setup
  - Turn on the Wifi
  - Add SSID and passward in source code
   
