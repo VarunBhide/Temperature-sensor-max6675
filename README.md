@@ -4,7 +4,7 @@
 ## Content
 - 1.[Overview](#overview)
 - 2.[Components Required](#components)
-- 3.[Flow Chart](#flow-chart)
+- 3.[Project Flow](#project-flow)
 - 4.[Circuit Diagram](#circuit-diagram)
 - 5
 - 
@@ -22,8 +22,15 @@
 - 3.USB cable
 - 4.Jumper Wire
 
- ## Flow Chart
-
+ ## Project Flow
+ - ### 1.Hardware Setup
+ - #### i.Gather Components
+ - ESP8266 NodeMCU
+ - Temperature Sensor MAX6675
+ - Bread board & Jumper wire
+ - 
+ - ii Hardware connectins
+ - 
 
 
 
