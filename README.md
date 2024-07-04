@@ -6,7 +6,7 @@
 - 2.[Components Required](#components-reaquired)
 - 3.[Project Flow](#project-flow)
 - 4.[Circuit Diagram](#circuit-diagram)
-- 5
+- 5.[Summary](#summary)
 - 
 
 
@@ -17,10 +17,11 @@
 - This project is based on ESP8266 Node MCU
 
 ## Components Reaquired 
-- 1.ESP8266 Node MCU
-- 2.Temperature sensor
-- 3.USB cable
-- 4.Jumper Wire
+- ESP8266 Node MCU
+- Temperature sensor
+- USB cable
+- Jumper Wire
+- Bread Board
 
  ## Project Flow
   ### 1.Hardware Setup
@@ -28,47 +29,42 @@
  - ESP8266 NodeMCU
  - Temperature Sensor MAX6675
  - Bread board & Jumper wire
+ - USB cable
   
   #### ii Hardware connectins
  - VCC of Temperature sensor to 3.3V of NodeMCU
  - Gnd of Temperature sensor to GND of NodeMCU
  - Connect Data pins of Temperature sensor to digital pins on NodeMCU
- - connect the NodeMCU to computrer thru=ough usb cable
+ - connect the NodeMCU to computrer thruough usb cable
    
 
 
  
   ### 2.Software Setup
-  ##### i. install proper ide
+  #### i. install Required ide
  - Install the VS code 
  - Install the platfomIO extention
  - Creat the new project
  - select the ESP8266 NodeMCU board
- - Write the code in SRC main.cpp file
- - add wifi credentials in code
- - add thingspeak api key and channel no for thingspeak connections
- - ##### install libraries
-   a. mathworks/ThingSpeak @ ^2.0.0
-  
-   b.adafruit/MAX6675 library @ ^1.1.2
-  
-   c.tzapu/WiFiManager @ ^0.16.0
-  
-   d. mathworks/ThingSpeak@^2.0.0
-  
-   e.NewPing
-  
-   f.ESP8266WiFi
-  
-   g. bbx10/DNSServer@^1.1.0
-  
-   h. monitor_speed=115200
+ - Install  required libraries
+
 
    
      
-     
-  ### Thingspeak field setup
-  - creat thingspeak account
+ - #### ii.Thingspeak  Setup
+ - open Thingspeak
+ - Creat new channel
+ - select  no of fields required
+ - Add api key and and chnnel no in source code
+
+ - #### iii.Wifi Setup
+ - Turn on the Wifi
+ - Add SSID and passward in source code
+ - 
+ S
+ 
+ - 
+  
   - 
   
 - Debug & compile the code
