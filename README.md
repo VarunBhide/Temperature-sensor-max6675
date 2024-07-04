@@ -31,7 +31,7 @@
  - Bread board & Jumper wire
  - USB cable
   
-  #### ii Hardware connectins
+  #### ii.Hardware connectins
  - VCC of Temperature sensor to 3.3V of NodeMCU
  - Gnd of Temperature sensor to GND of NodeMCU
  - Connect Data pins of Temperature sensor to digital pins on NodeMCU
