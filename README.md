@@ -74,7 +74,7 @@
 
 
  ## Circuit Diagram
- ![Circuit Diagram](./Temperature_Varun_Bhide/images/TemperatureSensorMAX6675.png)
+ ![Circuit Diagram](./images/TemperatureSensorMAX6675.png)
 
  ## Summary
  To interface a temperature sensor MAX6675 with the ESP8266 NodeMCU and upload data to ThingSpeak, start by connecting the sensor VCC to the NodeMCU 3.3V pin, GND to GND, and Data to a digital pin Install the `ESP8266WiFi` and sensor libraries in the Arduino IDE. Write or upload code to read data from the sensor, connect to Wi-Fi, and send data to ThingSpeak using its API. Finally, compile and upload the code to the NodeMCU and monitor the uploaded data on the ThingSpeak channel.
