@@ -74,7 +74,7 @@
 
 
  ## Circuit Diagram
- ![Temperature Varun](./https://github.com/VarunBhide/Temperature-sensor-max6675/blob/main/Temperature%20Varun%20Bhide/images/Temperature%20varun_pages-to-jpg-0001.jpg)
+ ![Temperature Varun](./images/Temperature varun_pages-to-jpg-0001.jpg)
  
  
 
