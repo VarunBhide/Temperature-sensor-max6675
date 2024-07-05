@@ -1,4 +1,4 @@
-# Intefacing of temperature sensor MAX6675 with ESP8266 Node MCU
+# Intefacing of Temperature Sensor MAX6675 With ESP8266 NodeMCU
 
 
 ## Content
@@ -67,6 +67,9 @@
    - open your channel
   #### v.output
    - see output on thingspeak channel Field
+   - follow this lnk to see results
+
+https://api.thingspeak.com/channels/2589082/feeds.json?api_key=B79EAJVD3GDPF9I1&results=2
 
 
  ## Circuit Diagram
