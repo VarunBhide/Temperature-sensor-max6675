@@ -7,7 +7,7 @@
 - 3.[Project Flow](#project-flow)
 - 4.[Circuit Diagram](#circuit-diagram)
 - 5.[Summary](#summary)
-- 
+
 
 
 
@@ -60,17 +60,12 @@
   #### iii.Wifi Setup
  - Turn on the Wifi
  - Add SSID and passward in source code
-  
- 
 
-   
-  
-   
-  
-- Debug & compile the code
+   #### iv.Debbing & copiling
+   - Debug & compile the code
    - Dump the code in Node MCU
-   - open the seril monitor to see the result
-   - wait untill the the nodeMCU connrcts to the wifi
+   - Open the seril monitor to see the result
+   - Wait untill the the NodeMCU connects to the wifi
 
 
  ## Circuit Diagram
