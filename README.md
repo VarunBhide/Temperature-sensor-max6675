@@ -74,7 +74,7 @@
 
 
  ## Circuit Diagram
- ![Temperature Varun](./Temperature-Varun-Bhide/images/Temperature-varun_pages-to-jpg-0001.jpg)
+ ![Temperature Varun](./images/Temperature-varun_pages-to-jpg-0001.jpg)
  
  
 
