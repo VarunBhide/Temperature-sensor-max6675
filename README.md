@@ -66,7 +66,7 @@
    - after connected to the wifi open the thingspeak account
    - open your channel
   #### v.output
-  -see output on thingspeak channel Field
+   - see output on thingspeak channel Field
 
 
  ## Circuit Diagram
