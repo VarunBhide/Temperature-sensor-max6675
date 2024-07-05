@@ -74,7 +74,7 @@
 
 
  ## Circuit Diagram
- ![Temperature Varun](./images/TemperatureSensorMAX6675.jpg)
+ ![Circuit Diagram](/images/TemperatureSensorMAX6675.png)
  
  
 
