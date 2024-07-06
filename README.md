@@ -14,7 +14,7 @@
 
 
 ## Overview
-- This project is based on ESP8266 Node MCU
+- This project is based on ESP8266 Node MCU.
 
 ## Components Reaquired 
 - ESP8266 Node MCU
@@ -35,38 +35,38 @@
  - VCC of Temperature sensor to 3.3V of NodeMCU
  - Gnd of Temperature sensor to GND of NodeMCU
  - Connect Data pins of Temperature sensor to digital pins on NodeMCU
- - connect the NodeMCU to computrer thruough usb cable
+ - Connect the NodeMCU to computer thruough usb cable
    
 
 
  
   ### 2.Software Setup
-  #### i. install Required ide
+  #### i. Install Required ide
  - Install the VS code 
  - Install the platfomIO extention
  - Creat the new project
- - select the ESP8266 NodeMCU board
+ - Select the ESP8266 NodeMCU board
  - Install  required libraries
 
 
    
  #### ii.Thingspeak  Setup
- - open Thingspeak
+ - Open Thingspeak
  - Creat new channel
- - select  no of fields required
+ - Select  no of fields required
  - Add api key and and chnnel no in source code
  #### iii.Wifi Setup
  - Turn on the Wifi
  - Add SSID and passward in source code
- #### iv.Debbing & copiling
+ #### iv.Debbing & Copiling
    - Debug & compile the code
    - Dump the code in Node MCU
    - Open the seril monitor to see the result
    - Wait untill the the NodeMCU connects to the wifi
-   - after connected to the wifi open the thingspeak account
+   - After connected to the wifi open the thingspeak account
    - open your channel
-  #### v.output
-   - see output on thingspeak channel Field
+  #### v.Output
+   - See output on thingspeak channel Field
    - follow this lnk to see results
 
 https://api.thingspeak.com/channels/2589082/feeds.json?api_key=B79EAJVD3GDPF9I1&results=2
